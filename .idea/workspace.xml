@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="d0cc7838-44f1-4a08-86bc-2abd9514c40f" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <ignored path="collector.iws" />
     <ignored path=".idea/workspace.xml" />
